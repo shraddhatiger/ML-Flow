@@ -1,0 +1,15 @@
+artifact_uri: mlruns/1/7ba1a6521a7a4cf8b455c87d00b40dc4/artifacts
+end_time: 1644303931183
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+name: ''
+run_id: 7ba1a6521a7a4cf8b455c87d00b40dc4
+run_uuid: 7ba1a6521a7a4cf8b455c87d00b40dc4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1644303928618
+status: 3
+tags: []
+user_id: shraddhatiger
